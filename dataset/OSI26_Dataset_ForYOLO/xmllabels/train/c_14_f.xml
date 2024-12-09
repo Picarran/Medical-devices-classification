@@ -1,0 +1,26 @@
+<annotation>
+	<folder>c</folder>
+	<filename>c_14_f.jpg</filename>
+	<path>C:\Users\hurry\Desktop\takepictures\c\c_14_f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1980</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>14</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>743</xmin>
+			<ymin>185</ymin>
+			<xmax>1482</xmax>
+			<ymax>994</ymax>
+		</bndbox>
+	</object>
+</annotation>
